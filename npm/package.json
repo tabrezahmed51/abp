@@ -9,9 +9,9 @@
   },
   "devDependencies": {
     "@types/fs-extra": "^8.0.1",
-    "glob": "^7.1.5",
-    "lerna": "^3.18.4",
-    "npm-check-updates": "^11.3.0"
+    "glob": "^13.0.6",
+    "lerna": "^9.0.7",
+    "npm-check-updates": "^23.0.0"
   },
   "dependencies": {
     "commander": "^6.0.0",
