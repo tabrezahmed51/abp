@@ -104,10 +104,10 @@
     universal-analytics "0.4.20"
     uuid "8.1.0"
 
-"@angular/common@~20.3.25":
-  version "20.3.34"
-  resolved "https://registry.yarnpkg.com/@angular/common/-/common-20.3.34.tgz#44a342d381f5b7a16d9f11a99f36028855585f08"
-  integrity sha512-OhB/l0cNldOvQeICqbWqRUzK5fF6zNYy44Q4cIGJZql8HXL/invGiqWLE9f+kU8z4jRisofHIGTBtyJQYYOudg==
+"@angular/common@~22.3.0":
+  version "22.3.0"
+  resolved "https://registry.yarnpkg.com/@angular/common/-/common-22.3.0.tgz#a25a55f085e0b4ce3a2b1b88b8290978d8c51688"
+  integrity sha512-bM49PPn/W1GaW9dqqS3n+JfQ7q3Jz7/gBFQV3t6hY45dPYyTcWW0WupM4QLuPWMrcYVRCc2+VnZt7Wihuqx1xQ==
   dependencies:
     tslib "^2.3.0"
 
@@ -130,17 +130,17 @@
     tslib "^2.0.0"
     yargs "15.3.0"
 
-"@angular/compiler@~20.3.25":
-  version "20.3.28"
-  resolved "https://registry.yarnpkg.com/@angular/compiler/-/compiler-20.3.28.tgz#d5f6c12a7686fcd4ddb197771b19749eef1c7d79"
-  integrity sha512-3iSkIWJEVrdG4Zv0vQs0ieO185aJfb5Vn3whi/D7QEDUNEsHGZSxRDxT1hyDGIaj52FN6+Qo5SFSSsDf+vgUAA==
+"@angular/compiler@~22.3.0":
+  version "22.3.0"
+  resolved "https://registry.yarnpkg.com/@angular/compiler/-/compiler-22.3.0.tgz#556a1bf9d26fc4070149b761d0df24366c22b7b1"
+  integrity sha512-a01VbJm4MANutGvsoBIlFl7oej5V67WEmGWhnd6eLZIAat5DyDLFuKD5++l+yHhZx1BaIvOCooyPgAbIEpb64g==
   dependencies:
     tslib "^2.3.0"
 
-"@angular/core@~20.3.25":
-  version "20.3.28"
-  resolved "https://registry.yarnpkg.com/@angular/core/-/core-20.3.28.tgz#ece2fdf6bf0af1b4d76e768eacb3d0bf90cb419c"
-  integrity sha512-R28TMoEr+mBUswemFWZdHAuK2WDSs+6eYFBg6XrBmlMlmG4YkWeNFxRbJNYDkF8RH+fpguS+iUH63yLpts22dA==
+"@angular/core@~22.3.0":
+  version "22.3.0"
+  resolved "https://registry.yarnpkg.com/@angular/core/-/core-22.3.0.tgz#bbedf91e4d31e01353ec1e049364d03ec6aa3733"
+  integrity sha512-wGXoO1eiBa5xPF7Y+Vm9eVj7W7x7drRv3StF2HubXX6l/osaIxeQc9ewaHaWl/teywr/LlGblu5ClKE65wF0Zw==
   dependencies:
     tslib "^2.3.0"
 

@@ -9,7 +9,7 @@
     "update-lepton-x-versions": "ts-node -r  tsconfig-paths/register update-lepton-x-versions.ts"
   },
   "dependencies": {
-    "axios": "^0.34.0",
+    "axios": "^1.21.1",
     "chalk": "^4.1.0",
     "commander": "^11.0.0",
     "execa": "^5.1.1",
