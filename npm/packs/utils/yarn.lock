@@ -104,10 +104,10 @@
     universal-analytics "0.4.20"
     uuid "8.1.0"
 
-"@angular/common@~20.3.25":
-  version "20.3.34"
-  resolved "https://registry.yarnpkg.com/@angular/common/-/common-20.3.34.tgz#44a342d381f5b7a16d9f11a99f36028855585f08"
-  integrity sha512-OhB/l0cNldOvQeICqbWqRUzK5fF6zNYy44Q4cIGJZql8HXL/invGiqWLE9f+kU8z4jRisofHIGTBtyJQYYOudg==
+"@angular/common@~22.3.0":
+  version "22.3.0"
+  resolved "https://registry.yarnpkg.com/@angular/common/-/common-22.3.0.tgz#a25a55f085e0b4ce3a2b1b88b8290978d8c51688"
+  integrity sha512-bM49PPn/W1GaW9dqqS3n+JfQ7q3Jz7/gBFQV3t6hY45dPYyTcWW0WupM4QLuPWMrcYVRCc2+VnZt7Wihuqx1xQ==
   dependencies:
     tslib "^2.3.0"
 
@@ -130,17 +130,17 @@
     tslib "^2.0.0"
     yargs "15.3.0"
 
-"@angular/compiler@~20.3.25":
-  version "20.3.28"
-  resolved "https://registry.yarnpkg.com/@angular/compiler/-/compiler-20.3.28.tgz#d5f6c12a7686fcd4ddb197771b19749eef1c7d79"
-  integrity sha512-3iSkIWJEVrdG4Zv0vQs0ieO185aJfb5Vn3whi/D7QEDUNEsHGZSxRDxT1hyDGIaj52FN6+Qo5SFSSsDf+vgUAA==
+"@angular/compiler@~22.3.0":
+  version "22.3.0"
+  resolved "https://registry.yarnpkg.com/@angular/compiler/-/compiler-22.3.0.tgz#556a1bf9d26fc4070149b761d0df24366c22b7b1"
+  integrity sha512-a01VbJm4MANutGvsoBIlFl7oej5V67WEmGWhnd6eLZIAat5DyDLFuKD5++l+yHhZx1BaIvOCooyPgAbIEpb64g==
   dependencies:
     tslib "^2.3.0"
 
-"@angular/core@~20.3.25":
-  version "20.3.28"
-  resolved "https://registry.yarnpkg.com/@angular/core/-/core-20.3.28.tgz#ece2fdf6bf0af1b4d76e768eacb3d0bf90cb419c"
-  integrity sha512-R28TMoEr+mBUswemFWZdHAuK2WDSs+6eYFBg6XrBmlMlmG4YkWeNFxRbJNYDkF8RH+fpguS+iUH63yLpts22dA==
+"@angular/core@~22.3.0":
+  version "22.3.0"
+  resolved "https://registry.yarnpkg.com/@angular/core/-/core-22.3.0.tgz#bbedf91e4d31e01353ec1e049364d03ec6aa3733"
+  integrity sha512-wGXoO1eiBa5xPF7Y+Vm9eVj7W7x7drRv3StF2HubXX6l/osaIxeQc9ewaHaWl/teywr/LlGblu5ClKE65wF0Zw==
   dependencies:
     tslib "^2.3.0"
 
@@ -1949,9 +1949,9 @@ core-util-is@1.0.2, core-util-is@~1.0.0:
   integrity sha1-tf1UIgqivFq1eqtxQMlAdUUDwac=
 
 cross-spawn@^6.0.0:
-  version "6.0.5"
-  resolved "https://registry.yarnpkg.com/cross-spawn/-/cross-spawn-6.0.5.tgz#4a5ec7c64dfae22c3a14124dbacdee846d80cbc4"
-  integrity sha512-eTVLrBSt7fjbDygz805pMnstIs2VTBNkRm0qxZd+M7A5XDdxVRWO5MxGBXZhjY4cqLYLdtrGqRf8mBPmzwSpWQ==
+  version "6.0.6"
+  resolved "https://registry.yarnpkg.com/cross-spawn/-/cross-spawn-6.0.6.tgz#30d0efa0712ddb7eb5a76e1e8721bffafa6b5d57"
+  integrity sha512-VqCUuhcd1iB+dsv8gxPttb5iZh/D0iubSP21g36KXdEuf6I5JiioesUVjpCdHV9MZRUfVFlvwtIUyPfxo5trtw==
   dependencies:
     nice-try "^1.0.4"
     path-key "^2.0.1"
@@ -1960,9 +1960,9 @@ cross-spawn@^6.0.0:
     which "^1.2.9"
 
 cross-spawn@^7.0.0:
-  version "7.0.1"
-  resolved "https://registry.yarnpkg.com/cross-spawn/-/cross-spawn-7.0.1.tgz#0ab56286e0f7c24e153d04cc2aa027e43a9a5d14"
-  integrity sha512-u7v4o84SwFpD32Z8IIcPZ6z1/ie24O6RU3RbtL5Y316l3KuHVPx9ItBgWQ6VlfAFnRnTtMUrsQ9MUUTuEZjogg==
+  version "7.0.6"
+  resolved "https://registry.yarnpkg.com/cross-spawn/-/cross-spawn-7.0.6.tgz#8a58fe78f00dcd70c370451759dfbfaf03e8ee9f"
+  integrity sha512-uV2QOWP2nWzsy2aMp8aRibhi9dlzF5Hgh5SHaB9OiTGEyDTiJJyx0uy51QXdyWbtAHNua4XJzUKca3OzKUd3vA==
   dependencies:
     path-key "^3.1.0"
     shebang-command "^2.0.0"
@@ -4298,9 +4298,9 @@ lodash.uniq@^4.5.0:
   integrity sha1-0CJTc662Uq3BvILklFM5qEJ1R3M=
 
 lodash@^4.17.10, lodash@^4.17.13, lodash@^4.17.15:
-  version "4.17.15"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
-  integrity sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
+  version "4.18.1"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.18.1.tgz#ff2b66c1f6326d59513de2407bf881439812771c"
+  integrity sha512-dMInicTPVE8d1e5otfwmmjlxkZoUpiVLwyeTdUsi/Caj/gfzzblBcCE5sRHV/AsjuCmxWrte2TNGSYuCeCq+0Q==
 
 log-symbols@^3.0.0:
   version "3.0.0"
